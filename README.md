@@ -150,7 +150,7 @@ Super-Rag comes with a built in REST API powered by FastApi.
 
 ```
 
-## 🧠 Supportd encoders
+## 🧠 Supported encoders
 - OpenAi
 - Cohere
 - HuggingFace
